@@ -1,0 +1,7 @@
+23:05:35.394 [main] DEBUG io.netty.buffer.ByteBufUtil  - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+23:56:01.254 [main] INFO  resource.Base  - this is log4j youtube
+23:56:01.261 [main] INFO  resource.Base  - this is log4j test greenkart
+23:56:17.059 [main] INFO  resource.Base  - this is log4j test greenkart
+23:56:22.735 [main] INFO  resource.Base  - this is log4j youtube
+23:57:18.295 [main] INFO  resource.Base  - this is log4j youtube
+23:57:18.301 [main] INFO  resource.Base  - this is log4j test greenkart

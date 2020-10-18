@@ -1,0 +1,6 @@
+23:57:45.374 [main] INFO  resource.Base  - this is log4j test greenkart
+23:57:53.377 [main] INFO  resource.Base  - this is log4j youtube
+23:58:48.635 [main] INFO  resource.Base  - this is log4j youtube
+23:58:48.642 [main] INFO  resource.Base  - this is log4j test greenkart
+23:59:00.494 [main] INFO  resource.Base  - this is log4j test greenkart
+23:59:01.245 [main] INFO  resource.Base  - this is log4j youtube
